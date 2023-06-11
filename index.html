@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Cities I Have Been In</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/css/flag-icon.min.css">
+    <!-- add a favicon names favicon.png -->
+    <link rel="icon" href="favicon.png" type="image/png" sizes="16x16">
+</head>
+<body>
+    <div class="parent2">
+        <div id="map"></div>
+        <div id="country-list"></div>
+    </div>
+
+    <div id="bottom-section">
+        <p>Total Cities Visited: <span id="total-cities">0</span></p>
+        <p>|</p>
+        <p>Total Countries Visited: <span id="total-countries">0</span></p>
+        <p>|</p>
+        <p>Total km Traveled: <span id="total-distance">0</span></p>
+        <p>|</p>
+        <p>Countries Visited: <span id="countries-visited">0 (0%)</span> out of <span id="total-countries">195</span><span id="persand">()</span></p>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" />
+
+    <script src="map.js"></script>
+    <script src="countries.js"></script>
+</body>
+</html>

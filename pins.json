@@ -1,0 +1,202 @@
+[
+  {
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "label": "Athens",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 64.1466,
+    "lng": -21.9426,
+    "label": "Reykjavik",
+    "country": "Iceland",
+    "color": "#003897",
+    "flag": "is"
+  },
+  {
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "label": "Paris",
+    "country": "France",
+    "color": "#0055A4",
+    "flag": "fr"
+  },
+  {
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "label": "Brussels",
+    "country": "Belgium",
+    "color": "#FDB813",
+    "flag": "be"
+  },
+  {
+    "lat": 50.6292,
+    "lng": 3.0573,
+    "label": "Lille",
+    "country": "France",
+    "color": "#0055A4",
+    "flag": "fr"
+  },
+  {
+    "lat": 51.4816,
+    "lng": -3.1791,
+    "label": "Cardiff",
+    "country": "UK",
+    "color": "#00247D",
+    "flag": "gb"
+  },
+  {
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "label": "London",
+    "country": "UK",
+    "color": "#00247D",
+    "flag": "gb"
+  },
+  {
+    "lat": 55.9533,
+    "lng": -3.1883,
+    "label": "Edinburgh",
+    "country": "UK",
+    "color": "#00247D",
+    "flag": "gb"
+  },
+  {
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "label": "Zurich",
+    "country": "Switzerland",
+    "color": "#D52B1E",
+    "flag": "ch"
+  },
+  {
+    "lat": 42.6977,
+    "lng": 23.3219,
+    "label": "Sofia",
+    "country": "Bulgaria",
+    "color": "#00966E",
+    "flag": "bg"
+  },
+  {
+    "lat": 40.7128,
+    "lng": -74.006,
+    "label": "New York",
+    "country": "USA",
+    "color": "#B22234",
+    "flag": "us"
+  },
+  {
+    "lat": 28.5383,
+    "lng": -81.3792,
+    "label": "Orlando",
+    "country": "USA",
+    "color": "#B22234",
+    "flag": "us"
+  },
+  {
+    "lat": 43.0828,
+    "lng": -79.0742,
+    "label": "Niagara Falls",
+    "country": "USA",
+    "color": "#B22234",
+    "flag": "us"
+  },
+  {
+    "lat": 63.985,
+    "lng": -22.6056,
+    "label": "Keflavik",
+    "country": "Iceland",
+    "color": "#003897",
+    "flag": "is"
+  },
+  {
+    "lat": 36.5511,
+    "lng": 26.3496,
+    "label": "Astipalea",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 38.2466,
+    "lng": 21.7346,
+    "label": "Patra",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 37.9375,
+    "lng": 22.9323,
+    "label": "Corinth",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 39.6676,
+    "lng": 20.8519,
+    "label": "Ioannina",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 40.6401,
+    "lng": 22.9444,
+    "label": "Thessaloniki",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 37.038,
+    "lng": 22.1142,
+    "label": "Kalamata",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 35.5122,
+    "lng": 24.0156,
+    "label": "Chania",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 37.5673,
+    "lng": 22.8004,
+    "label": "Nafplio",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 37.327,
+    "lng": 23.1416,
+    "label": "Porto Heli",
+    "country": "Greece",
+    "color": "#008349",
+    "flag": "gr"
+  },
+  {
+    "lat": 50.6099,
+    "lng": 3.3899,
+    "label": "Tournai",
+    "country": "Belgium",
+    "color": "#FDB813",
+    "flag": "be"
+  },
+  {
+    "lat": 51.4545,
+    "lng": -2.5879,
+    "label": "Bristol",
+    "country": "UK",
+    "color": "#00247D",
+    "flag": "gb"
+  }
+]
