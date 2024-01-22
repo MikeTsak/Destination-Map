@@ -34,6 +34,10 @@ const pins = [
     { lat: 25.0343, lng: -77.3963, label: 'Nassau', country: 'Bahamas', color: '#B22234', flag: 'bs', image:'baham' },
     { lat: 48.8742, lng: 2.7769, label: 'Eurodisney', country: 'France', color: '#0055A4', flag: 'fr', image:'eurod' }, // Blue
     { lat: 28.3852, lng: -81.5639, label: 'Disney World', country: 'USA', color: '#B22234', flag: 'us', image:'dworld' }, // Red
+    { lat: 35.8989, lng: 14.5146, label: 'Valletta', country: 'Malta', color: '#FFD100', flag: 'mt', image: 'valletta' }, // Yellow
+    { lat: 36.0443, lng: 14.2354, label: 'Gozo', country: 'Malta', color: '#FFD100', flag: 'mt', image: 'gozo' }, // Yellow
+    { lat: 36.0151, lng: 14.3317, label: 'Comino', country: 'Malta', color: '#FFD100', flag: 'mt', image: 'comino' }, // Yellow
+    { lat: 37.9426, lng: 22.8238, label: 'Assos Korinitas', country: 'Greece', color: '#008349', flag: 'gr', image: 'assos' }, // Green
 ];
 
 
