@@ -1,0 +1,6 @@
+[
+    { "from": "Athens", "to": "Vienna", "mode": "airplane" },
+    { "from": "Vienna", "to": "Brno", "mode": "train" },
+    { "from": "Keflavik", "to": "Reykjavik", "mode": "car" }
+  ]
+  
